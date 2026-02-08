@@ -3,6 +3,7 @@
   "package": "cc.cosmetica.cosmetica.mixin",
   "compatibilityLevel": "JAVA_21",
   "minVersion": "0.8",
+  "refmap": "cosmetica-common-refmap.json",
   "client": [
     "KeyboardHandlerMixin",
     "MinecraftMixin",
