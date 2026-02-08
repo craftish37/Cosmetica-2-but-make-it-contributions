@@ -3,10 +3,9 @@
   "package": "cc.cosmetica.cosmetica.fabric.mixin",
   "compatibilityLevel": "JAVA_21",
   "minVersion": "0.8",
-  "client": [
-  ],
-  "mixins": [
-  ],
+  "refmap": "cosmetica-fabric-refmap.json",
+  "client": [],
+  "mixins": [],
   "injectors": {
     "defaultRequire": 1
   }
